@@ -44,6 +44,12 @@ This project serves as a practical introduction to multi-agent systems and demon
 
 <img width="850" height="705" alt="image" src="https://github.com/user-attachments/assets/8713454c-11a8-466c-93ee-628718d0df5b" />
 
+## .env
+
+Needs two variables:
+- AZURE_PROJECT_ENDPOINT = your-project-link
+- MODEL_DEPLOYMENT_NAME = model-deployment
+
 
 ## Miscellaneous
 
