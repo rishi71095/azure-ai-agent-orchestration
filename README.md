@@ -40,6 +40,11 @@ Customer feedback describing an issue, compliment, or enhancement request.
 
 This project serves as a practical introduction to multi-agent systems and demonstrates how AI agents can collaborate to transform unstructured customer feedback into meaningful business insights and recommended actions.
 
+## Test Run - Output
+
+<img width="850" height="705" alt="image" src="https://github.com/user-attachments/assets/8713454c-11a8-466c-93ee-628718d0df5b" />
+
+
 ## Miscellaneous
 
 <br><br>
